@@ -94,6 +94,7 @@ rec {
           pysqlite
           datadog
           digital-ocean
+          vultr
         ];
 
       # For "nix-build --run-env".
